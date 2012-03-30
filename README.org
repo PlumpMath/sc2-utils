@@ -1,13 +1,9 @@
-#+TITLE:     Utilities for Starcraft 2
-#+AUTHOR:    Erik Winkels
-#+EMAIL:     aerique@xs4all.nl
-#+DATE:      2012-03-30 Fri
-#+OPTIONS:   H:3 toc:nil
+* Utilities for Starcraft 2
 
 Currently contains only one utility (=supply-block-graphs=) since I
 promised someone on [[http://www.teamliquid.net/][teamliquid.net]] to put it online.
 
-* Supply Block Graphs
+** Supply Block Graphs
 
 This is still very much in a "hey, it works.. ship it!" state and
 isn't quite as flexible as I would like.  Still very much geared to
