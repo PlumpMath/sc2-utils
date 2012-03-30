@@ -1,0 +1,20 @@
+#+TITLE:     Utilities for Starcraft 2
+#+AUTHOR:    Erik Winkels
+#+EMAIL:     aerique@xs4all.nl
+#+DATE:      2012-03-30 Fri
+#+OPTIONS:   H:3 toc:nil
+
+Currently contains only one utility (=supply-block-graphs=) since I
+promised someone on [[http://www.teamliquid.net/][teamliquid.net]] to put it online.
+
+* Supply Block Graphs
+
+This is still very much in a "hey, it works.. ship it!" state and
+isn't quite as flexible as I would like.  Still very much geared to
+the Zerg race.
+
+The purpose is to show the effect of an (early) supply block on your
+economy for the rest of the game.
+
+See also this thread on TL: [[http://www.teamliquid.net/forum/viewmessage.php?topic_id=324208][Visualizing Zerg Supply Blocks]] (includes
+graphics).
